@@ -1,4 +1,4 @@
-### Hi, I'm Axel! ✌️ I am a
+### Hi, I'm Axel! ✌️ I am
 - a MSc student of Computer Science at [KTH](https://www.kth.se/en)
 - a backend developer at @mentimeter
 - a big fan of Rust 🦀
