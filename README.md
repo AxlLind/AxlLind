@@ -7,8 +7,8 @@
 - [**AxOS**](https://github.com/AxlLind/AxOS), a work-in-progress operating system written in Rust 🦀
 - [**AdventOfCode**](https://adventofcode.com/) is the worlds largest programming competition, taking place every year during december. 🎄
   - [2020](https://github.com/AxlLind/AdventOfCode2020), in Rust with high global leaderboard placings (116 personal best!).
-  - [2020](https://github.com/AxlLind/AdventOfCode2019), fast solutions to all 25 problems in Rust.
-  - [2020](https://github.com/AxlLind/AdventOfCode2015), solutions to all 25 problems in Clojure.
+  - [2019](https://github.com/AxlLind/AdventOfCode2019), fast solutions to all 25 problems in Rust.
+  - [2015](https://github.com/AxlLind/AdventOfCode2015), solutions to all 25 problems in Clojure.
 - [**wasm-sandbox-demo**](https://github.com/AxlLind/wasm-sandbox-demo), an exploration into the security aspects of WebAssembly through tic-tac-toe 🕵️‍♀️
 - [**mdtable-cli**](https://github.com/AxlLind/mdtable-cli), a cli tool which makes creating markdown tables much easier 📊
 - [**easy_io**](https://github.com/AxlLind/easy_io), a Rust library which makes IO in competetive programming a breeze 🏃‍♀️
