@@ -1,6 +1,6 @@
 ### Hi, I'm Axel! ✌️ I am
-- a MSc student of Computer Science at [KTH](https://www.kth.se/en)
-- a backend developer at @mentimeter
+- MSc graudate of Computer Science from [KTH](https://www.kth.se/en)
+- a software engineer focusing on security
 - a big fan of Rust 🦀
 
 ### Some of my hobby projects
