@@ -9,6 +9,7 @@
   - [2021](https://github.com/AxlLind/AdventOfCode2021), in Rust with competitive global leaderboard placings, with efficient and clean solutions.
   - [2020](https://github.com/AxlLind/AdventOfCode2020), in Rust with high global leaderboard placings (116 personal best!).
   - [2019](https://github.com/AxlLind/AdventOfCode2019), fast solutions to all 25 problems in Rust.
+  - [2017](https://github.com/AxlLind/AdventOfCode2018), solutions to all 25 problems in type-annotated Python 3.10.
   - [2017](https://github.com/AxlLind/AdventOfCode2017), solutions to all 25 problems in Haskell.
   - [2016](https://github.com/AxlLind/AdventOfCode2016), solutions to all 25 problems in OCaml.
   - [2015](https://github.com/AxlLind/AdventOfCode2015), solutions to all 25 problems in Clojure.
