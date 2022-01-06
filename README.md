@@ -5,9 +5,9 @@
 
 ### Some of my hobby projects
 - [**AxOS**](https://github.com/AxlLind/AxOS), a work-in-progress operating system written in Rust 🦀
-- [**AdventOfCode**](https://adventofcode.com/) is the worlds largest programming competition, taking place every year during december. 🎄
+- [**AdventOfCode**](https://adventofcode.com/) is the worlds largest programming competition, taking place every year during december. 🎄 I am one of less than 400 people who have completed every single year, taking 350/350 :star:
   - [2021](https://github.com/AxlLind/AdventOfCode2021), in Rust with competitive global leaderboard placings, with efficient and clean solutions.
-  - [2020](https://github.com/AxlLind/AdventOfCode2020), in Rust with high global leaderboard placings (116 personal best!).
+  - [2020](https://github.com/AxlLind/AdventOfCode2020), in Rust with high global leaderboard placings.
   - [2019](https://github.com/AxlLind/AdventOfCode2019), fast solutions to all 25 problems in Rust.
   - [2018](https://github.com/AxlLind/AdventOfCode2018), solutions to all 25 problems in type-annotated Python 3.10.
   - [2017](https://github.com/AxlLind/AdventOfCode2017), solutions to all 25 problems in Haskell.
