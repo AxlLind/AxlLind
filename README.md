@@ -1,10 +1,10 @@
 ### Hi, I'm Axel! ✌️ I am
-- MSc graudate of Computer Science from [KTH](https://www.kth.se/en), with a masters in Computer Security
+- MSc graduate of Computer Science from [KTH](https://www.kth.se/en), with a masters in Computer Security
 - a software engineer focusing on security
 - a big fan of Rust 🦀
 
 ### Advent of Code 🎄
-[**AdventOfCode**](https://adventofcode.com/) is the worlds largest programming competition, taking place every year during december. 🎄 Last year over 200k people participated. I am one of less than 400 people who have completed every single year, earning 350/350 :star:
+[**AdventOfCode**](https://adventofcode.com/) is the world's largest programming competition, taking place every year during December. 🎄 Last year over 200k people participated. I am one of less than 400 people who have completed every single year, earning 350/350 :star:
 - [2021](https://github.com/AxlLind/AdventOfCode2021), in Rust with competitive global leaderboard placings, with efficient and clean solutions.
 - [2020](https://github.com/AxlLind/AdventOfCode2020), in Rust with high global leaderboard placings.
 - [2019](https://github.com/AxlLind/AdventOfCode2019), fast solutions to all 25 problems in Rust.
