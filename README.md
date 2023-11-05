@@ -5,6 +5,7 @@
 
 ### Advent of Code 🎄
 [**AdventOfCode**](https://adventofcode.com/) is the world's largest programming competition, taking place every year during December. 🎄 Last year over 200k people participated. I am one of less than 400 people who have completed every single year, earning 350/350 :star:
+- [2022](https://github.com/AxlLind/AdventOfCode2021), in Rust. 25th place in the world on day 19!
 - [2021](https://github.com/AxlLind/AdventOfCode2021), in Rust with competitive global leaderboard placings, with efficient and clean solutions.
 - [2020](https://github.com/AxlLind/AdventOfCode2020), in Rust with high global leaderboard placings.
 - [2019](https://github.com/AxlLind/AdventOfCode2019), fast solutions to all 25 problems in Rust.
@@ -13,7 +14,10 @@
 - [2016](https://github.com/AxlLind/AdventOfCode2016), solutions to all 25 problems in OCaml.
 - [2015](https://github.com/AxlLind/AdventOfCode2015), solutions to all 25 problems in Clojure.
 
-### Some of my hobby projects
+### Some things I've done
+- [**libwebb**](https://github.com/AxlLind/libwebb), a http webserver framework written from scratch in C! 🕸️
+- [**tauri-pw-manager**](https://github.com/AxlLind/tauri-pw-manager), a desktop password manager written in Rust/Typescript with Tauri! 🖥️
+- [**cryptopals-rs**](https://github.com/AxlLind/cryptopals-rs), solutions to the famous cryptography challenges in Rust! 🔓
 - [**AxOS**](https://github.com/AxlLind/AxOS), a work-in-progress operating system written in Rust 🦀
 - [**wasm-sandbox-demo**](https://github.com/AxlLind/wasm-sandbox-demo), an exploration into the security aspects of WebAssembly through tic-tac-toe 🕵️‍♀️
 - [**mdtable-cli**](https://github.com/AxlLind/mdtable-cli), a cli tool which makes creating markdown tables much easier 📊
