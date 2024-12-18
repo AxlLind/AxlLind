@@ -5,7 +5,8 @@
 
 ### Advent of Code 🎄
 [**AdventOfCode**](https://adventofcode.com/) is the world's largest programming competition, taking place every year during December. 🎄 Last year over 200k people participated. I am one of less than 400 people who have completed every single year, earning 350/350 :star:
-- [2023](https://github.com/AxlLind/AdventOfCode2023), in Rust. **Here we go!**
+- [2024](https://github.com/AxlLind/AdventOfCode2024), in Rust. **Here we go!**
+- [2023](https://github.com/AxlLind/AdventOfCode2023), in Rust.
 - [2022](https://github.com/AxlLind/AdventOfCode2022), in Rust. 25th place in the world on day 19!
 - [2021](https://github.com/AxlLind/AdventOfCode2021), in Rust with competitive global leaderboard placings, with efficient and clean solutions.
 - [2020](https://github.com/AxlLind/AdventOfCode2020), in Rust with high global leaderboard placings.
