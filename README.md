@@ -4,17 +4,8 @@
 - a big fan of Rust 🦀
 
 ### Advent of Code 🎄
-[**AdventOfCode**](https://adventofcode.com/) is the world's largest programming competition, taking place every year during December. 🎄 Last year over 200k people participated. I am one of less than 400 people who have completed every single year, earning 350/350 :star:
-- [2024](https://github.com/AxlLind/AdventOfCode2024), in Rust. **Here we go!**
-- [2023](https://github.com/AxlLind/AdventOfCode2023), in Rust.
-- [2022](https://github.com/AxlLind/AdventOfCode2022), in Rust. 25th place in the world on day 19!
-- [2021](https://github.com/AxlLind/AdventOfCode2021), in Rust with competitive global leaderboard placings, with efficient and clean solutions.
-- [2020](https://github.com/AxlLind/AdventOfCode2020), in Rust with high global leaderboard placings.
-- [2019](https://github.com/AxlLind/AdventOfCode2019), fast solutions to all 25 problems in Rust.
-- [2018](https://github.com/AxlLind/AdventOfCode2018), solutions to all 25 problems in type-annotated Python 3.10.
-- [2017](https://github.com/AxlLind/AdventOfCode2017), solutions to all 25 problems in Haskell.
-- [2016](https://github.com/AxlLind/AdventOfCode2016), solutions to all 25 problems in OCaml.
-- [2015](https://github.com/AxlLind/AdventOfCode2015), solutions to all 25 problems in Clojure.
+[**AdventOfCode**](https://adventofcode.com/) is the world's largest programming competition, taking place every year during December. 🎄 Last year over 200k people participated. I am one of less than 1000 people who have completed every single year, earning 400/400 :star:
+- [Advent of Code](https://github.com/AxlLind/AdventOfCode2024), every single year, in mostly Rust.
 
 ### Some things I've done
 - [**libwebb**](https://github.com/AxlLind/libwebb), a http webserver framework written from scratch in C! 🕸️
