@@ -5,7 +5,7 @@
 
 ### Advent of Code 🎄
 [**AdventOfCode**](https://adventofcode.com/) is the world's largest programming competition, taking place every year during December. 🎄 Last year over 200k people participated. I am one of less than 1000 people who have completed every single year, earning 400/400 :star:
-- [Advent of Code](https://github.com/AxlLind/AdventOfCode2024), every single year, in mostly Rust.
+- [Advent of Code](https://github.com/AxlLind/AdventOfCode), every single year, in mostly Rust.
 
 ### Some things I've done
 - [**libwebb**](https://github.com/AxlLind/libwebb), a http webserver framework written from scratch in C! 🕸️
